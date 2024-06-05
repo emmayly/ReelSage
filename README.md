@@ -34,10 +34,3 @@ Provide instructions on how to install and set up your project.
 
 Explain how to use your project and provide examples if applicable.
 
-## Contributing
-
-Specify how others can contribute to your project.
-
-## License
-
-Include information about the license of your project.
